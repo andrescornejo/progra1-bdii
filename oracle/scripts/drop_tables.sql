@@ -1,0 +1,52 @@
+alter table identificacion
+    drop constraint fk_constr_tipoID_identificacion;
+alter table persona 
+    drop constraint fk_constr_persona_email;
+alter table persona 
+    drop constraint fk_constr_persona_identificacion;
+alter table direccion
+    drop constraint fk_constr_direccion_persona;
+alter table telefono
+    drop constraint fk_constr_telefono_persona;
+alter table usuario
+    drop constraint fk_constr_usuario_persona;
+alter table administrador
+    drop constraint fk_constr_administrador_usuario;
+alter table comentario
+    drop constraint fk_constr_comentario_usuario;
+alter table subcategoria
+    drop constraint fk_constr_subcat_categoria;
+alter table item
+    drop constraint fk_constr_item_usuario;
+alter table item
+    drop constraint fk_constr_item_categoria;
+alter table item
+    drop constraint fk_constr_item_subcategoria;
+alter table subasta
+    drop constraint fk_subasta_item;
+alter table subasta
+    drop constraint fk_subasta_comentario_vendedor;
+alter table subasta
+    drop constraint fk_subasta_comentario_comprador;
+alter table subasta
+    drop constraint fk_subasta_valores;
+alter table puja
+    drop constraint fk_constr_puja_subasta;
+alter table puja
+    drop constraint fk_constr_puja_usuario_comprador;
+
+drop table puja;
+drop table subasta;
+drop table valores;
+drop table item;
+drop table subcategoria;
+drop table categoria;
+drop table comentario;
+drop table administrador;
+drop table usuario;
+drop table telefono;
+drop table direccion;
+drop table persona;
+drop table identificacion;
+drop table tipo_identificacion;
+drop table email;

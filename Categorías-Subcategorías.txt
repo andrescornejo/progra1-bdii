@@ -1,0 +1,448 @@
+Categoría	Subcategoría
+Antigüedades	Antigüedades
+Antigüedades	Arquitectónico y jardín
+Antigüedades	Antigüedades de Asia
+Antigüedades	Libros y manuscritos
+Antigüedades	Artes decorativas
+Antigüedades	Etnográfico
+Antigüedades	Muebles
+Antigüedades	Hogar y chimeneas
+Antigüedades	Linos y textiles (antes de 1930)
+Antigüedades	Mapas, atlas y globos terráqueos
+Antigüedades	Marítimo
+Antigüedades	Mercantil, comercio y fábricas
+Antigüedades	Instrumentos musicales (antes de 1930)
+Antigüedades	Épocas y estilos
+Antigüedades	Primitivos
+Antigüedades	Restauración y cuidado
+Antigüedades	Alfombras y tapetes
+Antigüedades	Ciencia y medicina (antes de 1930)
+Antigüedades	Costura (antes de 1930)
+Antigüedades	Plateado
+Antigüedades	Réplicas de antigüedades
+Antigüedades	Otros
+Arte	Directo del artista
+Arte	Arte de anticuarios y revendedores
+Arte	Lotes al por mayor
+Bebés	Artículos para bebé
+Bebés	Seguridad y salud del bebé
+Bebés	Baño y aseo
+Bebés	Asientos de seguridad para autos
+Bebés	Pañales
+Bebés	Alimentación
+Bebés	Recuerdos y anuncios de nacimiento
+Bebés	Ropa de cama para niños
+Bebés	Decoración de habitaciones de bebé
+Bebés	Muebles para bebés
+Bebés	Dejar los pañales
+Bebés	Coches para bebés
+Bebés	Accesorios para coches
+Bebés	Juguetes para bebés
+Bebés	Otros
+Libros	Accesorios
+Libros	Antigüedades y piezas de colección
+Libros	Libro en audio
+Libros	Catálogos
+Libros	Niños y adultos jóvenes
+Libros	Libros de cocina
+Libros	Ficción y literatura
+Libros	Publicaciones anteriores de revistas
+Libros	No ficción
+Libros	Libros de textos, educación
+Libros	Otros
+Equipo y maquinaria industrial	Agricultura y silvicultura
+Equipo y maquinaria industrial	Construcción
+Equipo y maquinaria industrial	Equipo eléctrico y de prueba
+Equipo y maquinaria industrial	Combustible y energía
+Equipo y maquinaria industrial	Cuidado de salud y laboratorio
+Equipo y maquinaria industrial	Equipo pesado
+Equipo y maquinaria industrial	Accesorios de equipo pesado
+Equipo y maquinaria industrial	Piezas y accesorios de equipo pesado
+Equipo y maquinaria industrial	Equipo ligero y herramientas
+Equipo y maquinaria industrial	Manufactura y metalurgia
+Equipo y maquinaria industrial	Suministro industrial y MRO
+Equipo y maquinaria industrial	Oficina
+Equipo y maquinaria industrial	Empaque y envío
+Equipo y maquinaria industrial	Artes gráficas y de impresión
+Equipo y maquinaria industrial	Restaurante y catering
+Equipo y maquinaria industrial	Sitios en internet y negocios en venta
+Equipo y maquinaria industrial	Otros
+Cámaras y fotografía	Binoculares y telescopios
+Cámaras y fotografía	Drones con cámaras
+Cámaras y fotografía	Cámara de video
+Cámaras y fotografía	Cámaras digitales
+Cámaras y fotografía	Accesorios de cámaras y fotografía
+Cámaras y fotografía	Marcos de fotos digitales
+Cámaras y fotografía	Fotografía de película
+Cámaras y fotografía	Flashes y accesorios
+Cámaras y fotografía	Lentes y filtros
+Cámaras y fotografía	Iluminación y estudio
+Cámaras y fotografía	Manuales y guías
+Cámaras y fotografía	Piezas y herramientas de repuesto
+Cámaras y fotografía	Trípodes y soportes
+Cámaras y fotografía	Edición y producción de video
+Cámaras y fotografía	Fotografías y películas vintage
+Cámaras y fotografía	Lotes al por mayor
+Cámaras y fotografía	Otros
+Teléfonos celulares y accesorios	Celulares y smartphones
+Teléfonos celulares y accesorios	Relojes inteligentes
+Teléfonos celulares y accesorios	Accesorios para teléfonos celulares
+Teléfonos celulares y accesorios	Teléfonos con display
+Teléfonos celulares y accesorios	Tarjetas SIM y tarjetas telefónicas
+Teléfonos celulares y accesorios	Piezas y herramientas de repuesto
+Teléfonos celulares y accesorios	Otros
+Ropa, zapatos y accesorios	Ropa de infantes y bebés
+Ropa, zapatos y accesorios	Vestuario, zapatos y accesorios de niños
+Ropa, zapatos y accesorios	Disfraces, representación, teatro
+Ropa, zapatos y accesorios	Ropa étnica y cultural
+Ropa, zapatos y accesorios	Trajes de baile
+Ropa, zapatos y accesorios	Accesorios para hombre
+Ropa, zapatos y accesorios	Ropa para hombre
+Ropa, zapatos y accesorios	Zapatos para hombres
+Ropa, zapatos y accesorios	Uniformes y ropa de trabajo
+Ropa, zapatos y accesorios	Vestuario, zapatos y accesorios unisex
+Ropa, zapatos y accesorios	Boda y ocasión formal
+Ropa, zapatos y accesorios	Accesorios para mujer
+Ropa, zapatos y accesorios	Ropa para mujer
+Ropa, zapatos y accesorios	Carteras y bolsos de mujer
+Ropa, zapatos y accesorios	Calzado de mujer
+Ropa, zapatos y accesorios	Vintage
+Ropa, zapatos y accesorios	Lotes grandes y pequeños al por mayor
+Monedas y billetes	En lingotes
+Monedas y billetes	Monedas: EE. UU.
+Monedas y billetes	Monedas: Canadá
+Monedas y billetes	Monedas: antiguas
+Monedas y billetes	Monedas: Edad Media
+Monedas y billetes	Monedas: del mundo
+Monedas y billetes	Objetos numismáticos
+Monedas y billetes	Billetes: EE. UU.
+Monedas y billetes	Billetes del mundo
+Monedas y billetes	Publicaciones y suministros
+Monedas y billetes	Acciones y bonos, escripofilia
+Monedas y billetes	Divisa virtual
+Monedas y billetes	Otros
+Artículos de colección	Publicidad
+Artículos de colección	Animales
+Artículos de colección	Dibujos animados y personajes
+Artículos de colección	Salas de juegos, rocolas y pinball
+Artículos de colección	Autógrafos
+Artículos de colección	Bancos, registros y ventas
+Artículos de colección	Artículos de bar
+Artículos de colección	Cuentas
+Artículos de colección	Botellas y aisladores
+Artículos de colección	Breweriana, cerveza
+Artículos de colección	Casino
+Artículos de colección	Relojes
+Artículos de colección	Cómics
+Artículos de colección	Culturas y etnias
+Artículos de colección	Adornos de colección
+Artículos de colección	Disneyana
+Artículos de colección	Fantasía, míticos y magia
+Artículos de colección	Memorabilia histórica
+Artículos de colección	Festivo y de temporada
+Artículos de colección	Cocina y hogar
+Artículos de colección	Cuchillos, espadas y cuchillas
+Artículos de colección	Lámparas, luces
+Artículos de colección	Ropa blanca y telas (1930 - presente)
+Artículos de colección	Objetos de metal
+Artículos de colección	Militaria
+Artículos de colección	Papel
+Artículos de colección	Bolígrafos e instrumentos para escribir
+Artículos de colección	Pez, llaveros, vasos promocionales
+Artículos de colección	Imágenes fotográficas
+Artículos de colección	Prendedores, cabezones, loncheras
+Artículos de colección	Postales
+Artículos de colección	Radio, fonógrafo, televisión, teléfono
+Artículos de colección	Religión y espiritualidad
+Artículos de colección	Rocas, fósiles y minerales
+Artículos de colección	Ciencia ficción y horror
+Artículos de colección	Ciencia y medicina (1930 - presente)
+Artículos de colección	Costura (1930 - presente)
+Artículos de colección	Recuerdos y memorabilia de viajes
+Artículos de colección	Productos relacionados con el tabaco
+Artículos de colección	Herramientas y cerraduras
+Artículos de colección	Tarjetas de colección
+Artículos de colección	Transporte
+Artículos de colección	Tocador, perfume y productos de afeitar
+Artículos de colección	Vintage, retro, de mediados de siglo
+Computadoras, tablets y redes	iPads, tablets y lectores electrónicos
+Computadoras, tablets y redes	Accesorios para iPad/Tableta/eBook
+Computadoras, tablets y redes	Tablet & eBook Reader Parts
+Computadoras, tablets y redes	Laptops y netbooks
+Computadoras, tablets y redes	Computadoras y todo en uno
+Computadoras, tablets y redes	Accs. para laptops y comp. de escritorio
+Computadoras, tablets y redes	Cables y conectores
+Computadoras, tablets y redes	Partes y componentes de computadora
+Computadoras, tablets y redes	Unidades de disco, almacenamiento y discos en blanco
+Computadoras, tablets y redes	Redes y servidores empresariales
+Computadoras, tablets y redes	Red y conectividad doméstica
+Computadoras, tablets y redes	Teclados, mouses y punteros
+Computadoras, tablets y redes	Monitores, proyectores y accesorios
+Computadoras, tablets y redes	Protección, distribución de alimentación
+Computadoras, tablets y redes	Impresoras, escáneres y suministros
+Computadoras, tablets y redes	Software
+Computadoras, tablets y redes	Manuales y recursos
+Computadoras, tablets y redes	Informática vintage
+Computadoras, tablets y redes	Otros
+Artículos electrónicos	Audio portátil y audífonos
+Artículos electrónicos	Televisor, video y audio para el hogar
+Artículos electrónicos	Sistemas electrónicos del vehículo y GPS
+Artículos electrónicos	Sistemas de automatización (domótica)
+Artículos electrónicos	Vigilancia residencial
+Artículos electrónicos	Teléfonos para el hogar
+Artículos electrónicos	Baterías y energías multiusos
+Artículos electrónicos	Comunicación por radio
+Artículos electrónicos	Artefactos y otros sistemas electrónicos
+Artículos electrónicos	Sistemas electrónicos vintage
+Artesanías	Materiales para arte
+Artesanías	Cuentas y fabricación de joyas
+Artesanías	Vidrio y mosaicos
+Artesanías	Piezas de artesanía y acabadas
+Artesanías	Artes y artesanías para el hogar
+Artesanías	Artesanías infantiles
+Artesanías	Materiales multiusos para artesanía
+Artesanías	Artesanías con agujas e hilos
+Artesanías	Colec. de recortes y artesanías de papel
+Artesanías	Costura y tela
+Artesanías	Timbres y gofrados
+Artesanías	Otras artesanías
+Muñecas y osos	Materiales para hacer osos
+Muñecas y osos	Osos
+Muñecas y osos	Muñecas
+Muñecas y osos	Miniaturas para casas de muñeca
+Muñecas y osos	Muñecas de papel
+Películas y DVD	DVD y Blu-ray
+Películas y DVD	Película fotográfica
+Películas y DVD	Discos láser
+Películas y DVD	UMD
+Películas y DVD	Cintas VHS
+Películas y DVD	Otros formatos
+Películas y DVD	Almacenamiento y accesorios para videos
+Vehículos	Vehículos y camionetas
+Vehículos	Motocicletas
+Vehículos	Otros vehículos y remolques
+Vehículos	Botes
+Vehículos	Vehículos de aventura, recreativos
+Vehículos	Partes y accesorios
+Memorabilia de entretenimiento	Autógrafos-original
+Memorabilia de entretenimiento	Autógrafos-reimpresos
+Memorabilia de entretenimiento	Memorabilia de películas
+Memorabilia de entretenimiento	Memorabilia de música
+Memorabilia de entretenimiento	Memorabilia de televisión
+Memorabilia de entretenimiento	Memorabilia de teatro
+Memorabilia de entretenimiento	Memorabilia de juegos de video
+Memorabilia de entretenimiento	Otros
+Tarjetas de regalo y cupones	Tarjetas de regalo
+Tarjetas de regalo y cupones	Tarjetas de regalo de eBay
+Tarjetas de regalo y cupones	Certificados de regalo
+Tarjetas de regalo y cupones	Cupones
+Tarjetas de regalo y cupones	Productos digitales
+Belleza y salud	Cuerpo y baño
+Belleza y salud	Suplementos alimenticios, nutrición
+Belleza y salud	Fragancias
+Belleza y salud	Cuidado del cabello y peinado
+Belleza y salud	Cuidado de la salud
+Belleza y salud	Maquillaje
+Belleza y salud	Masaje
+Belleza y salud	Medicina, movilidad y discapacidad
+Belleza y salud	Cuidado de las uñas, manicure y pedicure
+Belleza y salud	Remedios naturales y homeopáticos
+Belleza y salud	Higiene bucal
+Belleza y salud	Medicamentos de venta libre
+Belleza y salud	Equipo de spa y salón
+Belleza y salud	Afeitado y depilación
+Belleza y salud	Cuidado de la piel
+Belleza y salud	Protección solar y bronceador
+Belleza y salud	Tatuajes y arte corporal
+Belleza y salud	Cuidado de la vista
+Belleza y salud	Control de peso
+Belleza y salud	Lotes al por mayor
+Belleza y salud	Otros
+Casa y jardín	Baño
+Casa y jardín	Ropa de cama
+Casa y jardín	Comida y bebidas
+Casa y jardín	Flores naturales y suministros
+Casa y jardín	Muebles
+Casa y jardín	Tarjetas y suministros para fiestas
+Casa y jardín	Decoración festiva y de temporada
+Casa y jardín	Decoración para el hogar
+Casa y jardín	Artículos para mejoras del hogar
+Casa y jardín	Materiales de limpieza para el hogar
+Casa y jardín	Niños y adolescentes
+Casa y jardín	Cocina, comedor y bar
+Casa y jardín	Lámparas, luces y ventiladores de techo
+Casa y jardín	Electrodomésticos grandes
+Casa y jardín	Alfombras y tapetes
+Casa y jardín	Herramientas
+Casa y jardín	Suministros para soldadura
+Casa y jardín	Decoración y herrajes para ventanas
+Casa y jardín	Patio, jardín y espacios abiertos
+Casa y jardín	Lotes al por mayor
+Casa y jardín	Otros
+Joyería y relojes	Joyas infantiles
+Joyería y relojes	Compromiso y boda
+Joyería y relojes	Étnicos, regionales y tribales
+Joyería y relojes	Joyas de moda
+Joyería y relojes	Joyería fina
+Joyería y relojes	Joyas artesanales, hechas a mano
+Joyería y relojes	Joyeros y organizadores de joyas
+Joyería y relojes	Diseño y reparación de joyas
+Joyería y relojes	Cuentas sueltas
+Joyería y relojes	Diamantes y gemas sueltos
+Joyería y relojes	Joyas para hombres
+Joyería y relojes	Joyas vintage y antiguas
+Joyería y relojes	Relojes
+Joyería y relojes	Otros
+Música	Casetes
+Música	CD
+Música	Discos
+Música	Otros formatos
+Música	Almacenamiento y accesorios para videos
+Música	Lotes al por mayor
+Instrumentos y equipos musicales	Acordeones y concertinas
+Instrumentos y equipos musicales	Latón
+Instrumentos y equipos musicales	Equipo
+Instrumentos y equipos musicales	Guitarra
+Instrumentos y equipos musicales	Armónica
+Instrumentos y equipos musicales	Libros, CD y videos de instrucciones
+Instrumentos y equipos musicales	Karaoke
+Instrumentos y equipos musicales	Percusión
+Instrumentos y equipos musicales	Pianos, órganos y teclados
+Instrumentos y equipos musicales	Equipo de audio profesional
+Instrumentos y equipos musicales	Partituras y cancioneros
+Instrumentos y equipos musicales	Iluminación y efectos de escenario
+Instrumentos y equipos musicales	Cuerdas
+Instrumentos y equipos musicales	Instrumentos de viento-madera
+Instrumentos y equipos musicales	Lotes al por mayor
+Instrumentos y equipos musicales	Otros
+Productos para mascotas	Aves de corral
+Productos para mascotas	Aves
+Productos para mascotas	Gatos
+Productos para mascotas	Perros
+Productos para mascotas	Peces y acuarios
+Productos para mascotas	Caballos
+Productos para mascotas	Reptiles
+Productos para mascotas	Animales pequeños
+Productos para mascotas	Lápidas y urnas
+Productos para mascotas	Otros
+Cerámica y vidrio	Vidrio
+Cerámica y vidrio	Cerámica y porcelana
+Bienes raíces	Comerciales
+Bienes raíces	Terreno
+Bienes raíces	Casas prefabricadas
+Bienes raíces	Residenciales
+Bienes raíces	Tiempos compartidos a la venta
+Bienes raíces	Otros bienes raíces
+Servicios especiales	Servicios artísticos
+Servicios especiales	Ropa y joyería a la medida
+Servicios especiales	Servicios de subastas de eBay
+Servicios especiales	Diseño gráfico y de logotipos
+Servicios especiales	Servicios para mejoras del hogar
+Servicios especiales	Servicios basados en artículos
+Servicios especiales	Edición y duplicado de medios
+Servicios especiales	Impresión y personalización
+Servicios especiales	Restauración y reparación
+Servicios especiales	Servicios Web e informáticos
+Servicios especiales	Otros servicios
+Artículos deportivos	Boxeo, artes marciales y artes marciales mixtas (MMA)
+Artículos deportivos	Ciclismo
+Artículos deportivos	Pesca
+Artículos deportivos	Fitness, running y yoga
+Artículos deportivos	Golf
+Artículos deportivos	Cacería
+Artículos deportivos	Juegos en interiores
+Artículos deportivos	Deportes al aire libre
+Artículos deportivos	Deportes de equipo
+Artículos deportivos	Tenis y deportes con raqueta
+Artículos deportivos	Deportes acuáticos
+Artículos deportivos	Deportes de invierno
+Artículos deportivos	Otros
+Artículos deportivos	Lotes al por mayor
+Memorabilia de deporte, tarjetas, fans	Autógrafos (original)
+Memorabilia de deporte, tarjetas, fans	Autógrafos (reimpresos)
+Memorabilia de deporte, tarjetas, fans	Tarjetas
+Memorabilia de deporte, tarjetas, fans	Ropa para aficionados y recuerdos
+Memorabilia de deporte, tarjetas, fans	Memorabilia de juegos usada
+Memorabilia de deporte, tarjetas, fans	Autenticada por el fabricante
+Memorabilia de deporte, tarjetas, fans	Memorabilia de deportes antigua
+Memorabilia de deporte, tarjetas, fans	Lotes al por mayor
+Estampillas	Estados Unidos
+Estampillas	Canadá
+Estampillas	Gran Bretaña
+Estampillas	África
+Estampillas	Asia
+Estampillas	Australia y Oceanía
+Estampillas	Colonias británicas y territorios
+Estampillas	Caribe
+Estampillas	Europa
+Estampillas	Latinoamérica
+Estampillas	Oriente Medio
+Estampillas	Mundiales
+Estampillas	Estampillas tropicales
+Estampillas	Filatelia especializada
+Estampillas	Publicaciones y suministros
+Estampillas	Otros
+Boletos y experiencias	Boletos para deportes
+Boletos y experiencias	Boletos para conciertos
+Boletos y experiencias	Boletos para el teatro
+Boletos y experiencias	Pases para parques temáticos y clubes
+Boletos y experiencias	Pases de estacionamiento
+Boletos y experiencias	Experiencias especiales
+Boletos y experiencias	Otros
+Juguetes y pasatiempos	Figuras de acción
+Juguetes y pasatiempos	Afelpados con pelotas de semillas
+Juguetes y pasatiempos	Juguetes de construcción
+Juguetes y pasatiempos	Juguetes clásicos
+Juguetes y pasatiempos	Vehículos de presofusión y de juguete
+Juguetes y pasatiempos	Educativos
+Juguetes y pasatiempos	Electrónicos, baterías y a cuerda
+Juguetes y pasatiempos	Juguetes de comida rápida y cereales
+Juguetes y pasatiempos	Juegos
+Juguetes y pasatiempos	Canicas
+Juguetes y pasatiempos	Modelos de ferrocarriles y trenes
+Juguetes y pasatiempos	Modelos y juegos
+Juguetes y pasatiempos	Juguetes y estructuras para exterior
+Juguetes y pasatiempos	Juguetes preescolares y juegos de roles
+Juguetes y pasatiempos	Rompecabezas
+Juguetes y pasatiempos	Control por radio y mando
+Juguetes y pasatiempos	Robots, monstruos y juguetes del espacio
+Juguetes y pasatiempos	Automóviles con ranuras
+Juguetes y pasatiempos	Animales de peluche
+Juguetes y pasatiempos	Soldados de juguete
+Juguetes y pasatiempos	Juegos de cartas intercambiables
+Juguetes y pasatiempos	Juguetes de personajes, TV y películas
+Juguetes y pasatiempos	Juguetes antiguos
+Viaje	Línea aérea
+Viaje	Camping y casas rodantes
+Viaje	Alquiler de automóviles
+Viaje	Cruceros
+Viaje	Alojamiento
+Viaje	Equipaje
+Viaje	Accesorios para equipaje
+Viaje	Mapas
+Viaje	Ferrocarril
+Viaje	Accesorios de viaje
+Viaje	Paquetes de vacaciones
+Viaje	Otros
+Videojuegos y consolas	Videojuegos
+Videojuegos y consolas	Consolas de videojuego
+Videojuegos y consolas	Accesorios de videojuegos
+Videojuegos y consolas	Tarjetas de juego prepagadas
+Videojuegos y consolas	Piezas y herramientas de repuesto
+Videojuegos y consolas	Guías de estrategia y trampas
+Videojuegos y consolas	Productos de videojuegos
+Videojuegos y consolas	Otros
+Todo lo demás	Solo para adultos
+Todo lo demás	Desarrollo profesional y educación
+Todo lo demás	Ofertas especiales de eBay
+Todo lo demás	Herramientas de usuario de eBay
+Todo lo demás	Funeral y cementerio
+Todo lo demás	Genealogía
+Todo lo demás	Productos de información
+Todo lo demás	Metafísica
+Todo lo demás	Desarrollo personal
+Todo lo demás	Seguridad personal
+Todo lo demás	Productos y suministros religiosos
+Todo lo demás	Programa de puntos e incentivos
+Todo lo demás	Artículos extraños
+Todo lo demás	Otros
