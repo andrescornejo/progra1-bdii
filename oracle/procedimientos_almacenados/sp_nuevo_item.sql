@@ -76,6 +76,8 @@ begin
         RAISE_APPLICATION_ERROR(-20000, 'ERROR: Ya existe un producto con el mismo nombre.');
     end if;
 
+    commit;
+
 exception
     when others then
         errcode := SQLCODE;

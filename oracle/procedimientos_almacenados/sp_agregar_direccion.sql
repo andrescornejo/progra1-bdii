@@ -19,25 +19,34 @@ create or replace procedure sp_agregar_direccion(
     in_pais         in VARCHAR2,
     in_provincia    in VARCHAR2,
     in_canton       in VARCHAR2,
-    in_distrito     in Varchar2
+    in_distrito     in Varchar2,
     out_inserted_id out number 
 )
 is
     errcode     number;
     errmsg      varchar2(200);
     not_spec    varchar2(20) := 'No especificado';
+    var_person_id NUMBER;
+    var_user_id number;
 begin
-    /* Insertar a la tabla direccion una nueva direccion,
-     * con los campos informativos sin especificar.
-     * Como un usuario puede tener varias direcciones, no es necesario
-     * verificar si ya existen entradas similares o iguales.
-     */
+
+    select u.usuario_id 
+    into var_user_id
+    from usuario u
+    where u.username = in_username;
+
+    select u.persona_fk
+    into var_person_id
+    from usuario u
+    where u.usuario_id = var_user_id;
+
     insert into direccion(persona_fk, descripcion, distrito,
                             canton, provincia, pais, is_deleted)
-    values(in_fk_persona, not_spec, not_spec, not_spec, not_spec, not_spec, 0)
+    values(var_person_id, not_spec, in_distrito, 
+            in_canton, in_provincia, in_pais, 0)
     returning direccion_id into out_inserted_id; 
     commit;
-    dbms_output.put_line('Se inserto una direccion vacia a la tabla Direccion.');
+    dbms_output.put_line('Se inserto una direccion a la tabla Direccion.');
 
 exception
     when others then
