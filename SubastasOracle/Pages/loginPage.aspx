@@ -15,7 +15,7 @@
             <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
                 <div class="card card-signin my-5">
                     <div class="card-body">
-                        <h5 class="card-title text-center">Subastas - Login</h5>
+                        <h5 class="card-title text-center">Sistema de subastas - Login</h5>
                         <form id="loginForm" runat="server">
                             <div class="form-label-group">
                                 <asp:TextBox ID="usernameTb" runat="server" CssClass="form-control"></asp:TextBox>
@@ -34,7 +34,7 @@
         </div>
     </div>
     <%-- jQuery ,popper.js ,bootstrap.js --%>
-    <script src="../Scripts/jquery-3.5.1.min.js"></script>
+    <script src="../Scripts/jquery-3.6.0.min.js"></script>
     <script src="../Scripts/popper.min.js"></script>
     <script src="../Scripts/bootstrap.min.js"></script>
 </body>

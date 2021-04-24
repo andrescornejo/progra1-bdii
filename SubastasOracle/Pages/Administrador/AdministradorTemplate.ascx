@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ClienteTemplate.ascx.cs" Inherits="SubastasOracle.Pages.Cliente.ClienteTemplate" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="AdministradorTemplate.ascx.cs" Inherits="SubastasOracle.Pages.Administrador.AdministradorTemplate" %>
 
 <link href="../../Content/bootstrap.css" rel="stylesheet" />
 <link href="../../Content/dashboard.css" rel="stylesheet" />

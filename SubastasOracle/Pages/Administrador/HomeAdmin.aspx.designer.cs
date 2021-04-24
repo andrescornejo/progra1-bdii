@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SubastasOracle.Pages.Cliente
+namespace SubastasOracle.Pages.Administrador
 {
 
 
-    public partial class HomeCliente
+    public partial class HomeAdmin
     {
 
         /// <summary>
@@ -24,13 +24,13 @@ namespace SubastasOracle.Pages.Cliente
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// ClienteTemplate control.
+        /// AdministradorTemplate control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::SubastasOracle.Pages.Cliente.ClienteTemplate ClienteTemplate;
+        protected global::SubastasOracle.Pages.Administrador.AdministradorTemplate AdministradorTemplate;
 
         /// <summary>
         /// btnVerSubastasActivas control.

@@ -7,47 +7,38 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SubastasOracle.Pages.Cliente
+namespace SubastasOracle.Pages.Administrador
 {
 
 
-    public partial class HomeCliente
+    public partial class AdministradorTemplate
     {
 
         /// <summary>
-        /// form1 control.
+        /// ScriptManager1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
+        protected global::System.Web.UI.ScriptManager ScriptManager1;
 
         /// <summary>
-        /// ClienteTemplate control.
+        /// lblUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::SubastasOracle.Pages.Cliente.ClienteTemplate ClienteTemplate;
+        protected global::System.Web.UI.WebControls.Label lblUsername;
 
         /// <summary>
-        /// btnVerSubastasActivas control.
+        /// logoutBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnVerSubastasActivas;
-
-        /// <summary>
-        /// btnVerItems control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnVerItems;
+        protected global::System.Web.UI.WebControls.Button logoutBtn;
     }
 }

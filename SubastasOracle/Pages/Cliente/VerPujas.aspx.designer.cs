@@ -11,7 +11,7 @@ namespace SubastasOracle.Pages.Cliente
 {
 
 
-    public partial class HomeCliente
+    public partial class VerPujas
     {
 
         /// <summary>
@@ -33,21 +33,48 @@ namespace SubastasOracle.Pages.Cliente
         protected global::SubastasOracle.Pages.Cliente.ClienteTemplate ClienteTemplate;
 
         /// <summary>
-        /// btnVerSubastasActivas control.
+        /// btnBack control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnVerSubastasActivas;
+        protected global::System.Web.UI.WebControls.Button btnBack;
 
         /// <summary>
-        /// btnVerItems control.
+        /// lblDisplay control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnVerItems;
+        protected global::System.Web.UI.WebControls.Label lblDisplay;
+
+        /// <summary>
+        /// lblLead control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblLead;
+
+        /// <summary>
+        /// btnHacerPuja control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnHacerPuja;
+
+        /// <summary>
+        /// gridPujas control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.GridView gridPujas;
     }
 }

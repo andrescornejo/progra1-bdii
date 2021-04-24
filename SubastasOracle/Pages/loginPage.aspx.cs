@@ -1,6 +1,8 @@
-﻿using SubastasOracle.Logica;
+﻿using Oracle.ManagedDataAccess.Client;
+using SubastasOracle.Logica;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -45,7 +47,27 @@ namespace SubastasOracle.Pages
                 MessageBox.Show("Usuario o contraseña vacios, por favor intente de nuevo.");
             }
             DBSession.instance.LoginDB(username_input, passwd_input);
+            //Server.Transfer("Cliente/HomeCliente.aspx");
+            getAdminStatus();
 
+        }
+
+        protected int getAdminStatus()
+        {
+            OracleParameter param = new OracleParameter();
+            string status;
+            //Crear el comando para la base de datos.
+            OracleCommand cmd = new OracleCommand("system.sp_get_admin_status", Logica.DBSession.instance.connection);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.Add("in_username", OracleDbType.Varchar2).Value = username_input;
+            param = cmd.Parameters.Add("out_status ", OracleDbType.Int32, ParameterDirection.Output);
+
+            cmd.ExecuteNonQuery();
+
+            status = cmd.Parameters["out_status"].Value.ToString();
+
+            MessageBox.Show(status.ToString());
+            return 0;
         }
     }
 }

@@ -13,5 +13,15 @@ namespace SubastasOracle.Pages.Cliente
         {
 
         }
+
+        protected void btnVerSubastasActivasClick(object sender, EventArgs e)
+        {
+            Response.Redirect("SubastasActivas.aspx");
+        }
+
+        protected void btnVerItemsClick(object sender, EventArgs e)
+        {
+            Response.Redirect("ArticulosCliente.aspx");
+        }
     }
 }

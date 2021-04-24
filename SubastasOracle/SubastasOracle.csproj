@@ -120,8 +120,13 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Pages\Administrador\AdministradorTemplate.ascx" />
+    <Content Include="Pages\Administrador\HomeAdmin.aspx" />
+    <Content Include="Pages\Cliente\ArticulosCliente.aspx" />
     <Content Include="Pages\Cliente\ClienteTemplate.ascx" />
     <Content Include="Pages\Cliente\HomeCliente.aspx" />
+    <Content Include="Pages\Cliente\SubastasActivas.aspx" />
+    <Content Include="Pages\Cliente\VerPujas.aspx" />
     <Content Include="Pages\loginPage.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
@@ -279,6 +284,26 @@
     </Compile>
     <Compile Include="Logica\DBSession.cs" />
     <Compile Include="Logica\MessageBox.cs" />
+    <Compile Include="Pages\Administrador\AdministradorTemplate.ascx.cs">
+      <DependentUpon>AdministradorTemplate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Administrador\AdministradorTemplate.ascx.designer.cs">
+      <DependentUpon>AdministradorTemplate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Administrador\HomeAdmin.aspx.cs">
+      <DependentUpon>HomeAdmin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Administrador\HomeAdmin.aspx.designer.cs">
+      <DependentUpon>HomeAdmin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Cliente\ArticulosCliente.aspx.cs">
+      <DependentUpon>ArticulosCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Cliente\ArticulosCliente.aspx.designer.cs">
+      <DependentUpon>ArticulosCliente.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Cliente\ClienteTemplate.ascx.cs">
       <DependentUpon>ClienteTemplate.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -292,6 +317,20 @@
     </Compile>
     <Compile Include="Pages\Cliente\HomeCliente.aspx.designer.cs">
       <DependentUpon>HomeCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Cliente\SubastasActivas.aspx.cs">
+      <DependentUpon>SubastasActivas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Cliente\SubastasActivas.aspx.designer.cs">
+      <DependentUpon>SubastasActivas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Cliente\VerPujas.aspx.cs">
+      <DependentUpon>VerPujas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Cliente\VerPujas.aspx.designer.cs">
+      <DependentUpon>VerPujas.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\loginPage.aspx.cs">
       <DependentUpon>loginPage.aspx</DependentUpon>

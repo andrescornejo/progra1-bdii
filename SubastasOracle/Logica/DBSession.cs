@@ -9,9 +9,9 @@ namespace SubastasOracle.Logica
     public class DBSession
     {
         public static DBSession instance { get; } = new DBSession();
-        private static OracleConnection connection;
-        private static String username { get; set; }
-        private static String passwd { get; set; }
+        public OracleConnection connection;
+        public String username { get; set; }
+        private String passwd { get; set; }
 
         private DBSession() { }
 
@@ -29,7 +29,7 @@ namespace SubastasOracle.Logica
                 connection = new OracleConnection();
                 connection.ConnectionString = ocsb.ConnectionString;
                 connection.Open();
-                MessageBox.Show("Connected to Oracle" + connection.ServerVersion);
+                //MessageBox.Show("Connected to Oracle" + connection.ServerVersion); //Debug
             }
             catch(Oracle.ManagedDataAccess.Client.OracleException e)
             {
