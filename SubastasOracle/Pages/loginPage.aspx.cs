@@ -46,28 +46,32 @@ namespace SubastasOracle.Pages
             if (username_input.Length == 0 || passwd_input.Length ==0){
                 MessageBox.Show("Usuario o contraseña vacios, por favor intente de nuevo.");
             }
-            DBSession.instance.LoginDB(username_input, passwd_input);
-            //Server.Transfer("Cliente/HomeCliente.aspx");
-            getAdminStatus();
+            else if(DBSession.instance.LoginDB(username_input, passwd_input))
+                if (getAdminStatus())
+                    Response.Redirect("Administrador/HomeAdmin.aspx");
+                else
+                    Response.Redirect("Cliente/HomeCliente.aspx");
+            else
+                MessageBox.Show("Usuario y/o contraseña incorrectos, por favor intente de nuevo.");
 
         }
 
-        protected int getAdminStatus()
+        protected bool getAdminStatus()
         {
-            OracleParameter param = new OracleParameter();
-            string status;
             //Crear el comando para la base de datos.
             OracleCommand cmd = new OracleCommand("system.sp_get_admin_status", Logica.DBSession.instance.connection);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.Add("in_username", OracleDbType.Varchar2).Value = username_input;
-            param = cmd.Parameters.Add("out_status ", OracleDbType.Int32, ParameterDirection.Output);
+            cmd.Parameters.Add("out_status", OracleDbType.Int32);
+            cmd.Parameters["out_status"].Direction = ParameterDirection.Output;
 
             cmd.ExecuteNonQuery();
 
-            status = cmd.Parameters["out_status"].Value.ToString();
 
-            MessageBox.Show(status.ToString());
-            return 0;
+            if (cmd.Parameters["out_status"].Value.ToString() == "1")
+                return true;
+            else
+                return false;
         }
     }
 }

@@ -121,6 +121,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Pages\Administrador\AdministradorTemplate.ascx" />
+    <Content Include="Pages\Administrador\AgregarUsuario.aspx" />
     <Content Include="Pages\Administrador\HomeAdmin.aspx" />
     <Content Include="Pages\Cliente\ArticulosCliente.aspx" />
     <Content Include="Pages\Cliente\ClienteTemplate.ascx" />
@@ -289,6 +290,13 @@
     </Compile>
     <Compile Include="Pages\Administrador\AdministradorTemplate.ascx.designer.cs">
       <DependentUpon>AdministradorTemplate.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Administrador\AgregarUsuario.aspx.cs">
+      <DependentUpon>AgregarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Administrador\AgregarUsuario.aspx.designer.cs">
+      <DependentUpon>AgregarUsuario.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\Administrador\HomeAdmin.aspx.cs">
       <DependentUpon>HomeAdmin.aspx</DependentUpon>

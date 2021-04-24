@@ -18,7 +18,7 @@
                     <div class="card-body">
                         <h3 class="card-title">Agregar usuarios al sistema</h3>
                         <p class="card-text">Agregar usuarios al sistema y definir sus privilegios.</p>
-                        <asp:Button ID="btnVerSubastasActivas" CssClass="btn btn-primary btn-lg my-2" OnClick="btnVerSubastasActivasClick" Text="Ver" runat="server" />
+                        <asp:Button ID="btnAgregarUsuario" CssClass="btn btn-primary btn-lg my-2" OnClick="btnAgregarUsuarioClick" Text="Ver" runat="server" />
                     </div>
                 </div>
 
@@ -26,7 +26,7 @@
                     <div class="card-body">
                         <h3 class="card-title">Cambiar los valores de pujas.</h3>
                         <p class="card-text">Cambiar los valores para relizar pujas en el sistema.</p>
-                        <asp:Button ID="btnVerItems" CssClass="btn btn-primary btn-lg my-2" OnClick="btnVerItemsClick" Text="Ver" runat="server" />
+                        <asp:Button ID="btnCambiarValores" CssClass="btn btn-primary btn-lg my-2" OnClick="btnCambiarValoresClick" Text="Ver" runat="server" />
                     </div>
                 </div>
             </div>

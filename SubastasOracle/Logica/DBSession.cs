@@ -15,7 +15,7 @@ namespace SubastasOracle.Logica
 
         private DBSession() { }
 
-        void Connect()
+        bool Connect()
         {
             try
             {
@@ -30,10 +30,12 @@ namespace SubastasOracle.Logica
                 connection.ConnectionString = ocsb.ConnectionString;
                 connection.Open();
                 //MessageBox.Show("Connected to Oracle" + connection.ServerVersion); //Debug
+                return true;
             }
             catch(Oracle.ManagedDataAccess.Client.OracleException e)
             {
                 MessageBox.Show("Usuario o contraseña inválidos, vuelva a intentarlo.");
+                return false;
             }
         }
 
@@ -43,11 +45,11 @@ namespace SubastasOracle.Logica
             connection.Dispose();
         }
 
-        public void LoginDB(string pUsername, string pPasswd)
+        public bool LoginDB(string pUsername, string pPasswd)
         {
             username = pUsername;
             passwd = pPasswd;
-            Connect();
+            return Connect();
         }
 
         public void LogoutDB()
